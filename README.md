@@ -1,4 +1,4 @@
-react-autosuggest-match-any uses `@material-ui`, `react-autosuggest` and `autosuggest-highlight` for very lightweight and efficient search suggestion that finds any matches from a search to a list of search suggestions.
+react-autosuggest-match-any uses `@material-ui`, `react-autosuggest` and `autosuggest-highlight` to match sugestions that has any of the characters in order.
 
 ![alt text](https://github.com/geiz/react-autosuggest-match-any/blob/master/example.png)
 
