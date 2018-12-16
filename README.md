@@ -3,7 +3,7 @@ We use `@material-ui`, `react-autosuggest` and `autosuggest-highlight` for very 
 
 After you download:
 
-## `1. npm install`
+### `1. npm install`
 
 To install dependencies, wait a few minutes. 
 
