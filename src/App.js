@@ -74,9 +74,7 @@ class App extends Component {
         selected={isHighlighted}
         component="div"
         onClick={() => {
-          this.props.onSearchBarSearch(suggestion.label);
-          this.props.deleteCurrentResults();
-          this.props.handleClickSuggestion();
+          console.log(suggestion.label);
         }}
       >
         <div>
