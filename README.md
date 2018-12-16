@@ -1,5 +1,7 @@
-react-autosuggest-match-any was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-We use `@material-ui`, `react-autosuggest` and `autosuggest-highlight` for very lightweight and efficient search suggestions.
+react-autosuggest-match-any uses `@material-ui`, `react-autosuggest` and `autosuggest-highlight` for very lightweight and efficient search suggestion that finds any matches from a search to a list of search suggestions.
+
+![alt text](https://github.com/geiz/react-autosuggest-match-any/blob/master/example.png)
+
 
 After you download:
 
